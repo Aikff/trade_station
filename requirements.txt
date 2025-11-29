@@ -1,0 +1,8 @@
+streamlit
+ccxt
+pandas
+pandas_ta
+plotly
+python-dotenv
+requests
+watchdog
